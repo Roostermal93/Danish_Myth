@@ -1,8 +1,22 @@
 {
-    "count": 4,
+    "count": 8,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "e276f447-a0d9-4549-bb81-cb119140c0e9",
+            "collectionId": "Danish",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Danish/e276f447-a0d9-4549-bb81-cb119140c0e9_da_Female.mp4"
+        },
+        {
+            "id": "fc348b41-d945-4e02-8212-bd5a20976164",
+            "collectionId": "Danish",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Danish/fc348b41-d945-4e02-8212-bd5a20976164_da_Female.mp4"
+        },
         {
             "id": "f761e559-88f6-423b-8082-e365aaa8a7f5",
             "collectionId": "Danish",
@@ -23,6 +37,20 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Danish/a8a34f1c-0a76-4506-9897-59e38a98ba75_da_Female.mp4"
+        },
+        {
+            "id": "94616278-21fe-4f2b-b968-fc6ba16e0c32",
+            "collectionId": "Danish",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Danish/94616278-21fe-4f2b-b968-fc6ba16e0c32_da_Female.mp4"
+        },
+        {
+            "id": "4c586c1a-d83c-49f9-be30-3528ee936d2f",
+            "collectionId": "Danish",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Danish/4c586c1a-d83c-49f9-be30-3528ee936d2f_da_Female.mp4"
         },
         {
             "id": "ea292f8b-52d6-4380-8404-bca60cf9251a",
